@@ -1,0 +1,100 @@
+import lays from "./img/lays.jpeg"; 
+import doritos from "./img/doritos.jpeg";
+import kettle from "./img/kettle.jpg";
+import pringles from "./img/pringles.jpg";
+import cocacola from "./img/cocacola.jpg";
+import fanta from "./img/fanta.jpg";
+import perrier from "./img/perrier.jpg";
+import sprite from "./img/sprite.jpeg";
+import skittles from "./img/skittles.jpg";
+import chupachups from "./img/chupachups.jpg";
+
+import haribo from "./img/haribo.jpg";
+import kitkat from "./img/kitkat.jpeg";
+
+const products = {
+
+    chips : [
+      { 
+        amount: 0,
+        name : "Lays" ,
+        src : lays,
+        price: "2.99" 
+      },
+      {
+        amount: 0,
+        name : "Doritos" ,
+        src : doritos,
+        price: "2.99" 
+      },
+     {
+        amount: 0,
+        name : "Kettle" ,
+        src : kettle,
+        price: "2.99" 
+      },
+     {  
+        amount: 0,
+        name : "Pringles" ,
+        src : pringles,
+        price: "2.99" 
+      },
+
+    ], 
+
+    drinks : [
+      {
+        amount: 0,
+        name: "cocacola",
+        src: cocacola,
+        price: "1.99"
+      },
+      {
+        amount: 0,
+        name: "Fanta",
+        src: fanta,
+        price:  "1.99"
+      },
+     {
+        amount: 0,
+        name: "Perrier",
+        src: perrier,
+        price:  "1.99"
+      },
+      {
+        amount: 0,
+        name: "Sprite",
+        src: sprite,
+        price:  "1.99"
+      },
+    ],
+
+    candy: [
+      {
+        amount: 0,
+        name: "Skittles",
+        src: skittles,
+        price:  "1.99"
+      },
+      {
+        amount: 0,
+        name: "ChupaChups",
+        src: chupachups,
+        price:  "1.99"
+      },
+      {
+        amount: 0,
+        name: "Haribo",
+        src: haribo,
+        price:  "1.99"
+      },
+      {
+        amount: 0,
+        name: "Kitkat",
+        src: kitkat,
+        price:  "1.99"
+      }
+    ]
+    
+    
+export default products;
