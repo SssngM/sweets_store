@@ -14,8 +14,7 @@ import fanta from "./img/fanta.jpg";
 import perrier from "./img/perrier.jpg";
 import sprite from "./img/sprite.jpeg";
 import skittles from "./img/skittles.jpg";
-import chupachups from "./img/chupachups.jpg";
-
+import chupchups from "./img/chupchups.jpg";
 import haribo from "./img/haribo.jpg";
 import kitkat from "./img/kitkat.jpeg";
 
@@ -120,7 +119,7 @@ App.defaultProps = {
       id: 10,
       amount: 0,
       name: "ChupaChups",
-      src: chupachups,
+      src: chupchups,
       price: "1.99"
     },
     {
