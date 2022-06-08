@@ -1,4 +1,4 @@
-<h3>vending_machine with Figma/React </h3>
+<h3>Sweet Store with Figma/React </h3>
 <!-- 2022 -->
 
 <img width="352" alt="Screen Shot 2022-06-08 at 3 14 56 PM" src="https://user-images.githubusercontent.com/71366662/172726811-a4e9a8d2-f864-49dc-9355-61b7fa373eb0.png"><img width="352" alt="Screen Shot 2022-06-08 at 3 15 20 PM" src="https://user-images.githubusercontent.com/71366662/172726823-621ffd13-d39b-447e-ab0b-994a8bf7419f.png">
