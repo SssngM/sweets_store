@@ -1,7 +1,7 @@
 <h3>vending_machine with Figma/React </h3>
 <!-- 2022 -->
 
-<img width="350" alt="Screen Shot 2022-06-08 at 3 08 39 PM" src="https://user-images.githubusercontent.com/71366662/172726147-c0c16334-204d-4840-8561-4d80ca17cf91.png"><img width="350" alt="Screen Shot 2022-06-08 at 3 08 50 PM" src="https://user-images.githubusercontent.com/71366662/172726159-2e8947f4-0cd9-48dc-9eef-336f1ad3b038.png">
+<img width="350" length ="500" alt="Screen Shot 2022-06-08 at 3 08 39 PM" src="https://user-images.githubusercontent.com/71366662/172726147-c0c16334-204d-4840-8561-4d80ca17cf91.png"><img width="350"  length ="500" alt="Screen Shot 2022-06-08 at 3 08 50 PM" src="https://user-images.githubusercontent.com/71366662/172726159-2e8947f4-0cd9-48dc-9eef-336f1ad3b038.png">
 
 
 
