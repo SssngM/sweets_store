@@ -3,9 +3,9 @@
 
 
 
-<p align="center">
+<p align="center"> </p>
 <img width="358" alt="Screen Shot 2022-06-08 at 3 14 56 PM" src="https://user-images.githubusercontent.com/71366662/172726929-bf4f3455-e12d-4d7c-bee5-7f630f17593d.png"><img width="352" alt="Screen Shot 2022-06-08 at 3 15 20 PM" src="https://user-images.githubusercontent.com/71366662/172728227-182fa01d-ccc5-4c86-a38f-c888dc5e8aa0.png">
-</p>
+
 
 <img width="842" alt="Screen Shot 2022-06-08 at 12 29 33 PM" src="https://user-images.githubusercontent.com/71366662/172726187-cef32c4e-d89c-4d5d-9e8d-1dba4814f613.png">
 
@@ -18,3 +18,4 @@
 
 <img width="842" alt="Screen Shot 2022-06-08 at 3 10 00 PM" src="https://user-images.githubusercontent.com/71366662/172726217-9587261d-65ed-4f92-af60-3ef70d0d73f1.png">
 
+</p>
