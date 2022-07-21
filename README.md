@@ -3,7 +3,7 @@
 
 
 
-<p align="center"> </p>
+<p align="center">
 <img width="358" alt="Screen Shot 2022-06-08 at 3 14 56 PM" src="https://user-images.githubusercontent.com/71366662/172726929-bf4f3455-e12d-4d7c-bee5-7f630f17593d.png"><img width="352" alt="Screen Shot 2022-06-08 at 3 15 20 PM" src="https://user-images.githubusercontent.com/71366662/172728227-182fa01d-ccc5-4c86-a38f-c888dc5e8aa0.png">
 </p>
 
