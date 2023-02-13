@@ -4,13 +4,15 @@
 /node_modules
 /.pnp
 .pnp.js
+/.netlify
 
 # testing
 /coverage
 
 # production
 /build
-/debug.log
+
+/master
 
 
 # misc
