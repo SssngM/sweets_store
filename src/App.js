@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 
-import Home from './home';
-import NavBar from './NavBar';
-import Product from './Product';
-import Cart from './Cart';
+import Home from './components/Home';
+import NavBar from './components/NavBar';
+import Product from './components/Product';
+import Cart from './components/Cart';
 
 import lays from "./img/lays.jpeg";
 import doritos from "./img/doritos.jpeg";
@@ -23,7 +23,6 @@ import { BrowserRouter, Route } from "react-router-dom";
 function App(props) {
   const [cart, setCart] = useState([]);
 
-  console.log('cart...', cart)
   return (
     <div>
       <BrowserRouter>
@@ -44,6 +43,9 @@ function App(props) {
     </div>
   )
 }
+
+
+
 
 
 App.defaultProps = {
@@ -74,7 +76,7 @@ App.defaultProps = {
       amount: 0,
       name: "Pringles",
       src: pringles,
-      price: "2.99"
+      price: "1.99"
     },
   ],
   drinks: [
@@ -113,14 +115,14 @@ App.defaultProps = {
       amount: 0,
       name: "Skittles",
       src: skittles,
-      price: "1.99"
+      price: "2.99"
     },
     {
       id: 10,
       amount: 0,
       name: "ChupaChups",
       src: chupchups,
-      price: "1.99"
+      price: "1.00"
     },
     {
       id: 11,
@@ -134,7 +136,7 @@ App.defaultProps = {
       amount: 0,
       name: "Kitkat",
       src: kitkat,
-      price: "1.99"
+      price: "1.00"
     }
   ]
 }

@@ -1,25 +1,19 @@
 import React, { useState } from 'react';
-import { useHistory } from "react-router-dom";
 
-function OrderForm({ type, product, setCart }) {
+function OrderForm({ product, setCart }) {
   const [quantity, setQuantity] = useState(1);
-  let history = useHistory();
 
-  function submitOrder() {
+
+  function SubmitOrder() {
     const curOrder = {
       img: product.src,
       name: product.name,
-      quantity: quantity,
       price: product.price,
+      quantity: quantity,
       total: (Number(product.price) * Number(quantity)).toFixed(2)
     };
 
-    setCart(cart => {
-      const cartCopy = [...cart, curOrder];
-      return cartCopy;
-    });
-
-    // history.push("/cart")
+    setCart(cart => [...cart, curOrder]);
   }
 
   return (
@@ -36,7 +30,7 @@ function OrderForm({ type, product, setCart }) {
         <option value="6">6 </option>
       </select>
       <h3 className="style">
-        <button onClick={submitOrder}> +Add </button>
+        <button onClick={SubmitOrder}> Add </button>
       </h3>
     </div>
   )
