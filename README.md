@@ -1,7 +1,7 @@
 <h3>Sweet Store with Figma/React </h3>
 <!-- 2022 -->
 
-<h4> use javascirpe and React framwork with Router, Cart function. </h4>
+<h4> use javascirpt and React framwork as Router, Cart function. </h4>
 https://your-sweets.netlify.app/
 
 <br></br>
